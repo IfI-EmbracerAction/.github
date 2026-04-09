@@ -6,6 +6,8 @@
 
 Schkeuditz (Saxony, ~18 000 inhabitants) operates a Nextbike bike-sharing station — but bikes tend to accumulate in some places and disappear from others. This project explores how open data, clustering, and demand forecasting can guide **redistribution** so that shared bikes are where people actually need them.
 
+The long-term vision: replacing manual redistribution with an **autonomous robot** that moves bikes between clusters based on real-time demand. The data pipeline developed here lays the groundwork — identifying where bikes are needed, when, and in what quantity — so that a future robotic system can act on reliable predictions.
+
 The work is carried out by **TU Bergakademie Freiberg** as part of the [**EMBRACER**](https://www.interregeurope.eu/embracer) pilot action, co-funded by the **European Union** through the **Interreg Europe** programme. More details on the pilot action can be found [here](https://www.interregeurope.eu/embracer/policy-instruments/28229/pilot-action/33).
 
 ### Partners
