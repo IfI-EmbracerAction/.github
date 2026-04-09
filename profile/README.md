@@ -1,13 +1,23 @@
-# Embracer Action
+# EMBRACER Pilot Action — Schkeuditz
 
-Datengestützte Umverteilung von Leihrädern in Schkeuditz — ein Forschungsprojekt
-der TU Bergakademie Freiberg.
+*Data-driven redistribution of shared bikes in a small German city.*
 
-![Leihrad-Cluster in Schkeuditz](cluster_map.png)
+![Bike clusters in Schkeuditz](cluster_map.png)
 
-## Repositories
+Schkeuditz (Saxony, ~18 000 inhabitants) operates a Nextbike bike-sharing station — but bikes tend to accumulate in some places and disappear from others. This project explores how open data, clustering, and demand forecasting can guide **redistribution** so that shared bikes are where people actually need them.
 
-- **[Collection-and-Prediction](https://github.com/IfI-EmbracerAction/Collection-and-Prediction)** —
-  Datenerhebung, DBSCAN-Clustering, Bedarfsprognose und Routenoptimierung
-- **[Presentation](https://github.com/IfI-EmbracerAction/Presentation)** —
-  Quarto-Präsentation der Ergebnisse
+The work is carried out by **TU Bergakademie Freiberg** as part of the [**EMBRACER**](https://www.interregeurope.eu/embracer) pilot action, co-funded by the **European Union** through the **Interreg Europe** programme.
+
+### Partners
+
+| | |
+|---|---|
+| **Lineris GmbH** | On-the-ground bike redistribution operations |
+| **Stadt Schkeuditz** | Municipality operating the local bike-sharing system |
+| **TU Bergakademie Freiberg** | Research & development |
+
+### What's here
+
+The repositories in this organisation contain the full pipeline — from raw API data collection through spatial clustering, temporal demand forecasting, route optimisation, and printable work plans. Note that the repositories are **private** during active development.
+
+> *Funded by the European Union through the Interreg Europe programme as part of the [EMBRACER](https://www.interregeurope.eu/embracer) project — improving sustainable urban mobility policies across European regions.*
