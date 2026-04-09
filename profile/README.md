@@ -14,6 +14,7 @@ The work is carried out by **TU Bergakademie Freiberg** as part of the [**EMBRAC
 
 | | |
 |---|---|
+| **nextbike GmbH** | Bike-sharing system provider |
 | **Lineris GmbH** | On-the-ground bike redistribution operations |
 | **Stadt Schkeuditz** | Municipality operating the local bike-sharing system |
 | **TU Bergakademie Freiberg** | Research & development |
